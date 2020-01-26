@@ -14,7 +14,7 @@ In this challenge, you will be finding a few key aspects of Oahu’s seasonal we
 ## Challenge Summary
 
 [june.csv](june.csv)  
-[december.csv](june.csv)
+[december.csv](december.csv)
 
 Based on the statistics shown in the csv files above, June appears to have nicer weather for business. June's mean temperature is higher by almost 4°.  In addition the mean precipitation is lower in June.
 
