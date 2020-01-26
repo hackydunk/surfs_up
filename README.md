@@ -13,4 +13,17 @@ In this challenge, you will be finding a few key aspects of Oahu’s seasonal we
 
 ## Challenge Summary
 
-[I'm a relative reference to a repository file](june.csv)
+[June Data](june.csv)  
+[December Data](june.csv)
+
+Based on the statistics shown in the csv files above, June appears to have nicer weather for business. June's mean temperature is higher by almost 4°.  In addition the mean precipitation is lower in June.
+
+June's standard deviation is lower than December's in regards to both the precipitation and temperature which means the weather is more stable in June.
+
+The minimum temperature is higher in June than in December. (June 64°, December 56°)  
+The maximum temperature is higher in June than in December. (June 85°, December 83°)  
+
+Recommendations for further analysis:
+1. 
+2. 
+3. 
